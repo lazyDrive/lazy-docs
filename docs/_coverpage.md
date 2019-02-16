@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](_images/logo.svg)
 
 # Lazy Drive <small>Beta 0.0.1</small>
 
