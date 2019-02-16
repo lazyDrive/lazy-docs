@@ -11,4 +11,4 @@
 [GitHub](http://github.com/lazyDrive/)
 [Get Started](#Headline)
 
-![color](#f0f0f0)
+![color](#fff)
