@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# Lazy Drive <small>3.5</small>
+# Lazy Drive <small>Beta 0.0.1</small>
 
 > A magical documentation site generator.
 
@@ -9,4 +9,4 @@
 - Multiple themes
 
 [GitHub](http://github.com/lazyDrive/)
-[Get Started](#docsify)
+[Get Started](#Headline)
